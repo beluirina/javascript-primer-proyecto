@@ -1,0 +1,118 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "[Huggies] Amarillo - active sec",
+            "marca": "Huggies",
+            "price": 1050,
+            "image": "./images/huggies-ama.jpg"
+        },
+        {
+            "id": 2,
+            "title": "[Huggies] Rojo - supreme sec",
+            "marca": "Huggies",
+            "price": 1700,
+            "image": "./images/huggies-rojos.jpg"
+        },
+        {
+            "id": 3,
+            "title": "[Huggies] Celeste - protect plus",
+            "marca": "Huggies",
+            "price": 750,
+            "image": "./images/huggies-celeste.jpg"
+        },
+        {
+            "id": 4,
+            "title": "[Huggies] Verde - extra flex",
+            "marca": "Huggies",
+            "price": 999,
+            "image": "./images/huggies-ved.jpg"
+        },
+        {
+            "id": 5,
+            "title": "[Babysec] Celeste",
+            "marca": "Babysec",
+            "price": 700,
+            "image": "./images/babysec-c.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "[Babysec] Celeste Jumbo",
+            "marca": "Babysec",
+            "price": 1100,
+            "image": "./images/babysec-c-ahorro.jpg"
+
+        },
+        {
+            "id": 7,
+            "title": "[Babysec] Violeta premium",
+            "marca": "Babysec",
+            "price": 950,
+            "image": "./images/babysec-v.jpg"
+        },
+        {
+            "id": 8,
+            "title": "[Babysec] Violeta premium Jumbo",
+            "marca": "Babysec",
+            "price": 2500,
+            "image": "./images/babysec-v-ahorro.jpg"
+        },
+        {
+            "id": 9,
+            "title": "[Pampers] Premium",
+            "marca": "Pampers",
+            "price": 2000,
+            "image": "./images/pampers-premium.jpg"
+        },
+        {
+            "id": 10,
+            "title": "[Pampers] Verde",
+            "marca": "Pampers",
+            "price": 1900,
+            "image": "./images/pampers-v.jpg"
+        },
+        {
+            "id": 11,
+            "title": "[Pampers] Rojo chico",
+            "marca": "Pampers",
+            "price": 650,
+            "image": "./images/pampers-r.jpg"
+        },
+        {
+            "id": 11,
+            "title": "[Pampers] Rojo paquete familiar",
+            "marca": "Pampers",
+            "price": 1700,
+            "image": "./images/pampers-r-ahorro.jpg"
+        },
+        {
+            "id": 11,
+            "title": "[Pampers] Verde paquete AHORRO",
+            "marca": "Pampers",
+            "price": 1150,
+            "image": "./images/pampers-v-ahorro.jpg"
+        },
+        {
+            "id": 11,
+            "title": "[Pampers] Pants",
+            "marca": "Pampers",
+            "price": 2050,
+            "image": "./images/pampers-pants.jpg"
+        },
+        {
+            "id": 11,
+            "title": "[Estrella] Comun",
+            "marca": "Estrella",
+            "price": 650,
+            "image": "./images/estrella.jpg"
+        },
+        {
+            "id": 11,
+            "title": "[Estrella] Paquete AHORRO",
+            "marca": "Estrella",
+            "price": 1250,
+            "image": "./images/estrella-ahorro.jpg"
+        }
+    ]
+}
